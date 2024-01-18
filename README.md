@@ -1,6 +1,4 @@
-# Petto Frontend: React TypeScript Guides
-
-This is a guide for those who want to contribute to the frontend. Anything that has been left out (ex. CSS best practices) can be found in the [Mashup Garage Playbook](https://www.mashupgarage.com/playbook/).
+# React TypeScript Guides
 
 > This guide is still in progress. We are committed to update this as the project matures. Everything in this guide might change slightly or drastically overtime. We also encourage you to contribute in this guide. It will be greatly appreciated!
 
